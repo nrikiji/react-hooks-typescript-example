@@ -1,11 +1,11 @@
 # react-hooks-typescript-example
 
-React HooksとTypescriptを使用した簡単なアプリのサンプルコード
+React Hooks と Typescript を使用した簡単なアプリのサンプルコード
 
-overview
+主な機能は以下
 
 - ヘッダー、フッターなどの共通化
-- react-router-domを使ったルーティング
+- react-router-dom を使ったルーティング
 - ログイン機能
-- APIへのリクエスト
-- useContextとuseReducerを使った状態管理
+- API へのリクエスト
+- useContext と useReducer を使った状態管理
